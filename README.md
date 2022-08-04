@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Leander</h1>
 <h3 align="center">A developer creating responsive, full-stack web applications</h3>
 
-- 🔭 I’m currently working on: **We Spy: uer generated photohunts**
+- 🔭 I’m currently working on: **We Spy: user generated photohunts**
 
 - 🌱 I’m currently learning: **Material UI and AWS**
 
