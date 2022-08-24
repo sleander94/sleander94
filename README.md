@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Stephen Leander</h1>
-<h3 align="center">A developer creating responsive, full-stack web applications</h3>
+<h1 align="center">Hi, I'm Stephen Leander - a full stack developer in Colorado</h1>
 
-- 🔭 I’m currently working on: **We Spy: user generated photohunts**
+I'm a highly driven, MERN stack focused developer with a passion for creating awesome web apps.
 
-- 🌱 I’m currently learning: **Material UI and AWS**
+I'm currently in search of a place to expand my programming knowledge and grow into a well rounded developer. 
 
-- 👨‍💻 Check out my portfolio: [stephenleander.dev](stephenleander.dev)
 
-- 📫 Connect with me: **stephen.leander1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stephen leander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen leander" height="30" width="40" /></a>
+<a href="https://stephenleander.dev" target="blank"><h3>stephenleander.dev</h3></a>
+</p>
+<p align="left">
+<a href="https://linkedin.com/in/stephen leander" target="blank"><h3>linkedin.com/stephen-leander</h3></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
