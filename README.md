@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Stephen Leander - a full stack developer in Colorado</h1>
+<h1 align="center">Hi, I'm Stephen Leander - a Colorado-based IT specialist and full stack developer</h1>
 
-I'm a highly driven, MERN stack focused developer with a passion for creating awesome web apps.
+I'm a highly driven, focused professional with a passion for technology, desktop hardware, and creating awesome web apps.
 
-I'm currently in search of a place to expand my programming knowledge and grow into a well rounded developer. 
+I'm currently in search of a place to expand my technical/programming knowledge and grow into a well rounded IT professional. 
 
 
 
